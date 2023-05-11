@@ -18,4 +18,5 @@ The following repositories are created to support implementations for SDO protoc
 | [release](https://github.com/secure-device-onboard/release) | Hosts binary artifacts of different tagged releases of SDO protocol implementations. |
 | [supply-chain-tools](https://github.com/secure-device-onboard/supply-chain-tools) | JAVA-based reference implementation for Manufacturer and Reseller component defined in SDO protocol. |
 | [docs](https://github.com/secure-device-onboard/docs) | Maintains source for the documents hosted on [GitHub IO](https://secure-device-onboard.github.io/docs). |
+| [epid-verification-service](https://github.com/fido-device-onboard/epid-verification-service) | JAVA-based implementation to support EPID signature verification through REST end-points. |
 | [readme](https://github.com/secure-device-onboard/readme) | Contains details about different repositories within Secure Device Onboard organization. |
