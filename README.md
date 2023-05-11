@@ -1,10 +1,10 @@
-FIDO Device Onboard (FDO) is functionally compatible with Secure Device Onboard (SDO). We recommend users to switch to FDO components. The support for Secure Device Onboard (SDO) has been discontinued from March 31, 2023.
+FIDO Device Onboard (FDO) is functionally compatible with Secure Device Onboard (SDO). We recommend users to switch to [FDO components](https://github.com/orgs/fido-device-onboard/repositories). The support for Secure Device Onboard (SDO) has been discontinued from March 31, 2023.
 
 # Repositories
 
 Secure Device Onboard organization provides implementation for Secure Device Onboard (SDO) protocol.
 
-## SDO Specific Repositories
+## SDO Repositories
 
 The following repositories are created to support implementations for SDO protocol.
 
